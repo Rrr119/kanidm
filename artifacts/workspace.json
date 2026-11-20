@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid30806",
+  "B": "/home/dev/feedback/uid30806",
+  "sha": "23a573e3d306ef86bf7844c39034a3a528a0056d",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "kanidm",
+    "repo": "kanidm",
+    "sha": "23a573e3d306ef86bf7844c39034a3a528a0056d"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "kanidm",
+    "cloneUrl": "https://github.com/Rrr119/kanidm.git"
+  },
+  "at": "2026-11-20T16:28:57.993Z"
+}
